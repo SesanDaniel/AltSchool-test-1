@@ -49,6 +49,12 @@ body {
 #header-navigations .log-in {
   color: #0065fe;
 }
+
+.log-in:hover {
+  text-decoration: underline;
+  
+}
+
 #header-navigations .btns button {
   border: none;
   background-color: #0065fe;
